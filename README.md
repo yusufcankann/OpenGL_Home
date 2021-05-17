@@ -1,5 +1,5 @@
 # OpenGL_Home
-OpenGL rotation-scaling-resizing operation in 3D
+Simple rotation-scaling-resizing operation in 3D OpenGL
 
 ## How To Run?
 * If opengl and glut libraries are not installed on your system;
